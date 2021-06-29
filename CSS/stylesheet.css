@@ -55,8 +55,7 @@ h1 {
 }
 
 .pfp {
-    width:70%;
-    display:inline-block;
+    width:50%;
 
 }
 
@@ -66,9 +65,8 @@ h1 {
     padding:25px;
 }
 
-
 #footer {
-    background-color: #373738;
+    background-color: #FFFFFF;
     padding:200px 100px 100px 100px;
 
 }
@@ -79,4 +77,5 @@ h1 {
 
 .footer-text {
     text-align: center;
+    color:#0D1F2D;
 }
