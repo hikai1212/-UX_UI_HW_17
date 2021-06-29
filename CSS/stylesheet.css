@@ -41,9 +41,6 @@ section#hero-img {
     background-color:#F3EAE3;
 }
 
-.pfp{
-    float:right;
-}
 
 h1 {
     font-family:'Arimo',sans-serif;
@@ -56,6 +53,9 @@ h1 {
 
 .pfp {
     width:50%;
+    padding-left: 200px;
+    background-color:#F3EAE3;
+
 
 }
 
@@ -64,6 +64,7 @@ h1 {
     height:600px;
     padding:25px;
 }
+
 
 #footer {
     background-color: #FFFFFF;
