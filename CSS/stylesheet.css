@@ -1,3 +1,9 @@
+body{
+     max-width:1920px;
+    margin:0auto;
+    float:none;
+
+}
 .inline-block {
     display:inline-block;
     vertical-align: top;
@@ -7,21 +13,6 @@
     width:50%;
     padding:1%;
 }
-/*
-nav {
-    width:73%;
-    padding: 1%;
-}
-*/
-/*
-ul {
-    width:50%;
-    margin-left:80%;
-    list-style: none;
-    display:inline-block;
-    
-}
-*/
 
 .navigation {
     background-color: #F3EAE3;
@@ -30,6 +21,8 @@ ul {
 .inline-block ul {
     list-style-type: none;
     border:0;
+    padding-left:500px;
+    padding-top:2% ;
 }
 
 .inline-block li{
@@ -38,7 +31,7 @@ ul {
     text-decoration: none;
     font-size: 17px;
     list-style:none;
-    float:right;
+    float:left;
 
 }
 
@@ -47,10 +40,11 @@ ul {
     color:black;
     padding:16px;
     text-decoration: none;
+    font-family: ;
 }
 
 .contact {
-    display:inline-block;
+/*NEED HELP REACHING THIS CONTACT*/
 }
 
 
@@ -69,17 +63,20 @@ h1 {
 }
 
 .pfp {
-    width:50%;
-    padding-left: 200px;
+    width:30%;
     background-color:#F3EAE3;
-
+    display:inline-block;
 
 }
 
-#hero-img{
+.hero-left{
     display:inline-block;
-    height:600px;
+    height:20px;
     padding:25px;
+}
+
+.arrow img {
+    padding-top:50px;
 }
 
 .about-me {
