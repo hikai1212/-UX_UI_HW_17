@@ -70,11 +70,6 @@ p {
 }
 
 
-section#hero-img {
-    background-color:#3d3c3b;
-}
-
-
 .header-color {
     background-color:#F3EAE3;
     border:none; 
@@ -102,6 +97,14 @@ section#hero-img {
     padding:40px 50px 50px 50px;
     margin:40px;
 }
+
+.skillsLeft {
+    display: inline-block;
+    padding-left:40px;
+    padding-right:500px;
+}
+
+
 #footer {
     background-color: #FFFFFF;
     text-align:center;
@@ -111,8 +114,9 @@ section#hero-img {
 
 }
 
-#footer img{
-   width:5%;
+.footer-logo img {
+    width:20%;
+    padding-bottom: 80px;
 }
 
 .footer-text {
